@@ -1,5 +1,13 @@
 # ign-common3
 
+## 仓库使用
+
+```
+curl -sSL https://raw.githubusercontent.com/Sebastianhayashi/ign-math6/main/build.sh | bash
+```
+## 基本信息
+
+版本：ignition-common3 VERSION 3.17.0
 编译顺序：5
 
 依赖：
