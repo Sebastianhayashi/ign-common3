@@ -2,7 +2,7 @@
 
 # Step 1: 安装常规依赖
 echo "Installing dependencies..."
-sudo yum install -y tinyxml2-devel uuid-devel ffmpeg libavdevice ffmpeg-devel
+sudo yum install -y tinyxml2-devel uuid-devel ffmpeg libavdevice ffmpeg-devel tar
 
 # Step 2: 安装 gts 依赖（从源代码编译安装）
 echo "Installing gts from source..."
